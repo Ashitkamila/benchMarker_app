@@ -1,0 +1,62 @@
+.action-btn{
+    background-color: #fff;
+    color: #5569ff;
+}
+.action-btn:hover{
+    background-color: #e6e9fa;
+    border-radius: 5px;
+    /* box-shadow: 0 0 11px rgba(33,33,33,.2);  */
+}
+.search-input{
+    border-radius: 5px;
+    border: .5px solid #dedede;
+    
+}
+.search-input:focus {
+    outline: none !important;
+    border:1.5px solid rgb(43, 80, 214);
+    box-shadow: 0 0 10px #719ECE;
+}
+.download:hover{
+    cursor: pointer !important;
+}
+
+.new-user-icon-box{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.user-info-heading{
+    font-weight: 500;
+    color: #0D6EFD;
+}
+hr {
+    border: 1px dotted dashed red;
+  }
+.right {
+    position: absolute;
+    left: 37.5%;
+    right: 8.33%;
+    top: 16.67%;
+    bottom: 41.63%;
+    
+    /* Green 2 */
+    
+    border: 2px solid #27AE60;
+  }
+  
+.pointer {
+    cursor: pointer;
+}
+.search-input:focus {
+    outline: none !important;
+    border:1.5px solid rgb(43, 80, 214);
+    box-shadow: 0 0 10px #719ECE;
+}
+
+.testSelect__menu{
+    /* color:red; */
+    /* padding:10px ; */
+    /* font-size: 20px; */
+}

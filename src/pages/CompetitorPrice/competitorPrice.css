@@ -1,0 +1,15 @@
+
+
+@media screen and (max-width: 787px) {
+    .date-picker {
+      display: flex;
+      flex-direction:column ;
+      height: 50%;
+      width: 50%;
+    }
+  }
+  
+  TblHead{
+    background-color: coral;
+  }
+  

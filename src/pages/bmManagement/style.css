@@ -1,0 +1,19 @@
+.action-btn{
+    background-color: #fff;
+    color: #9B999B;
+}
+.action-btn:hover{
+    background-color: #EFEFEF;
+    border-radius: 50%;
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+}
+.abc {
+    background-color: #6B7075;
+  }
+
+  #react_tel_input{
+    border: 2px solid blue;
+    height: 25px !important;
+    width: 20rem !important;
+    margin-top: 10px;
+  }

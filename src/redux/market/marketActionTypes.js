@@ -1,0 +1,6 @@
+// ACTION TYPES
+export const GET_MARKET = 'GET_MARKET';
+export const ADD_MARKET = 'ADD_MARKET';
+export const UPDATE_MARKET = 'UPDATE_MARKET';
+export const DELETE_MARKET = 'DELETE_MARKET';
+export const MARKET_ERROR = 'MARKET_ERROR';

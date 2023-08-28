@@ -1,0 +1,6 @@
+// ACTION TYPES
+export const GET_AGMARK = 'GET_AGMARK';
+export const ADD_AGMARK = 'ADD_AGMARK';
+export const UPDATE_AGMARK = 'UPDATE_AGMARK';
+export const DELETE_AGMARK = 'DELETE_AGMARK';
+export const AGMARK_ERROR = 'AGMARK_ERROR';
